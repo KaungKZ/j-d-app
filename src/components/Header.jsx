@@ -79,8 +79,6 @@ export default function Header({
     }
   }
 
-  // console.log(innerSelectedValues.countries);
-
   function handleOnCompareClick() {
     setSelectedValues(innerSelectedValues);
 

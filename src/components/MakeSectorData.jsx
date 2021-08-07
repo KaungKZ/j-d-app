@@ -34,8 +34,6 @@ export default function MakeSectorData({ selectedMonth, selectedValues }) {
 
       _elem.childNodes[0].innerHTML = value;
 
-      // const _total = value * 2;
-
       var width = 1;
       var id = setInterval(frame, 10);
       function frame() {

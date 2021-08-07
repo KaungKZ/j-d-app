@@ -98,8 +98,6 @@ export default function DataContent({
     }
   }
 
-  // console.log(selectedValues);
-
   return (
     <div className="data">
       <div className="comparator-observer" ref={ref}></div>
